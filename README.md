@@ -6,5 +6,6 @@ control.sh controls the whole process of a trial. The aim of this script is to s
 Two environments are needed in running this control.sh.<br>
 - base environment in which control.sh is run. <br>
 - an environment to run visualization using aplpy called "aplpy_env". <br>
+
 Please see the requirement text file for these two environments.<br>
 Run control.sh in the base environment. "aplpy_env" will be automatically activated during the visualization step.<br>
